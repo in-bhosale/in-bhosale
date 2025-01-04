@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Indranil Bhosale.
-- 👀 I’m interested in the Python domain.
-- 🌱 I’m currently learning the Tkinter GUI library.
-- 💞️ I’m looking to collaborate on simple Python-related GUI projects.
+- 👀 I’m an aspiring Data Analyst/Scientist.
 - 📫 How to reach me: You can email me at in.bhosale@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
